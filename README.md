@@ -1,4 +1,4 @@
-mobile-tanker
+Mobile Robot
 =============
 
-Project which simulates a tank crew member to find enemies and to fire with a physical mounted (harmless) weapon
+A robot based on Arduino Due + Android platform that search object based on colors. 
